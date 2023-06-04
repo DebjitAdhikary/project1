@@ -1,2 +1,3 @@
-# 1st-feb-project
+# project 1
+
 practice
